@@ -4,7 +4,9 @@
 
 ## Introdução
 
-O objetivo deste trabalho é realizar análise de sentimentos utilizando técnicas de Processamento de Linguagem Natural (PLN) e Deep Learning. Para isso, utilizamos Support Vector Machines (SVM) aliadas à abordagem de Bag of Words (BoW) e embeddings, além de empregar o modelo BERT. Coletamos um conjunto de dados obtidos por meio de web scraping no site da Steam, especificamente nos reviews do jogo "Starfield". Este jogo foi escolhido devido à sua grande quantidade de avaliações, tanto positivas quanto negativas. Ao todo, obtivemos **42.651 reviews**, dos quais 33.052 são classificados como positivos e 9.599 como negativos.
+O objetivo deste trabalho é realizar análise de sentimentos utilizando técnicas de Processamento de Linguagem Natural (PLN) e Deep Learning para a disciplina de PLN com Deep Learning da Especialização em Deep Learning do CIn/UFPE. 
+
+Para isso, utilizamos Support Vector Machines (SVM) aliadas às abordagens de Bag of Words (BoW) e embeddings, além de empregar o modelo BERT. Coletamos um conjunto de dados obtidos por meio de web scraping no site da Steam, especificamente nos reviews do jogo "Starfield". Este jogo foi escolhido devido à sua grande quantidade de avaliações, tanto positivas quanto negativas. Ao todo, obtivemos **42.651 reviews**, dos quais 33.052 são classificados como positivos e 9.599 como negativos.
 
 ## SVM e Bag of Words (BoW)
 
